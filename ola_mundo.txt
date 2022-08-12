@@ -2,3 +2,6 @@ ola, mundo!
 eu sou o gabriel
 Bem-vind@ ao projeto Palomakoba!
 vamos aprender fundamentos do git?
+Qual a sua instituição?
+UNIR.
+Quantos anos você tem?
