@@ -1,5 +1,4 @@
 ola, mundo!
 eu sou o gabriel
+Bem-vind@ ao projeto Palomakoba!
 vamos aprender fundamentos do git?
-Qual é o seu nome?
-Sandy
